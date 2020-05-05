@@ -1,0 +1,10 @@
+ls > out ;
+>>>>>>>>>>>>>>>>>>>>>
+ls >> caca ;
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> ls out
+> out ls
+ls << out
+ls << out | cat -e | ls > out ;
+ls > out < ls ;
+ls > test ; cat test ; ls >> test ; out << ls ; cat test ; rm test
+> out ls

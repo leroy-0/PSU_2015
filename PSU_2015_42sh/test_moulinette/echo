@@ -1,0 +1,6 @@
+echo $?;
+echo $PATH ;
+echo -e ls | ./42sh;
+echo $USER;
+echo - e "ls -l" | ./42sh ; exit 255 ; echo $?
+eho """""""""""""""""""""""
